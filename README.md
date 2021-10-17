@@ -1,1 +1,1 @@
-# ML-officeappartment-price-prediction-using-Linear-regression
+# ML-indianflats-price-prediction-using-Linear-regression
